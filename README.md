@@ -1,4 +1,4 @@
-Amith Vardhan Reddy Surasani
+# Amith Vardhan Reddy Surasani
 
 I am an emerging data scientist skilled in leveraging advanced techniques in data analytics, machine learning, and deep learning to extract meaningful patterns, relationships, and insights from complex datasets. My programming expertise includes Python, Java, and SQL, enabling efficient data processing, model development, and deployment.
 
