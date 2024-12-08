@@ -1,3 +1,5 @@
+Amith Vardhan Reddy Surasani
+
 I am an emerging data scientist skilled in leveraging advanced techniques in data analytics, machine learning, and deep learning to extract meaningful patterns, relationships, and insights from complex datasets. My programming expertise includes Python, Java, and SQL, enabling efficient data processing, model development, and deployment.
 
 Additionally, I am proficient in visualization tools such as Excel and Tableau, allowing me to create interactive dashboards and reports to communicate insights effectively to stakeholders. My specialization extends to advanced areas such as Natural Language Processing (NLP), where I analyze textual data to uncover actionable insights. I also have experience in web scraping, utilizing tools such as BeautifulSoup, Selenium, and Google Chrome WebDriver, as well as APIs from various platforms.
