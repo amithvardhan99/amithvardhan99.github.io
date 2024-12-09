@@ -14,8 +14,8 @@ To enhance my skills and practical experience in the field of Data Science, I ac
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-### Academic Qualifications
+## Academic Qualifications
 
-##### Wilmington University
+### Wilmington University
 
-##### MVSR Engineering College, Osmania University
+### MVSR Engineering College, Osmania University
