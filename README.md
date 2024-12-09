@@ -13,3 +13,9 @@ I hold a master's degree in Information Systems Technologies at Wilmington Unive
 To enhance my skills and practical experience in the field of Data Science, I actively work on real-time projects from various websites such as Kaggle, DataCamp, HiCounselor, Udemy and many more. My work on these projects can be explored on my GitHub profile.
 
 ------------------------------------------------------------------------------------------------------------------------------
+
+### Academic Qualifications
+
+##### Wilmington University
+
+##### MVSR Engineering College, Osmania University
