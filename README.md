@@ -6,4 +6,4 @@ Additionally, I am proficient in visualization tools such as Excel and Tableau, 
 
 Moreover, I have a strong foundation in Generative AI, including the use of Large Language Models (LLMs) like GPT and Llama 3 for generating high-quality textual data. My expertise with the Groq API enables me to enhance the performance and scalability of data analytics and machine learning workflows, optimizing efficiency and productivity in AI-driven tasks.
 
-Currently, I am a data scientist at DUTA where I fine-tune GPT 3.5 and Llama 3 with cleaned articles in English, Telugu and Hindi gathered from various news sources; and 
+Currently, I am a data scientist at DUTA where I fine-tune GPT 3.5 and Llama 3 with cleaned articles (which are in tens of thousands) in English, Telugu and Hindi gathered from various news sources; and building a chatbot which uses these fine-tune models for retrieving response related to news according to user's prompt.
