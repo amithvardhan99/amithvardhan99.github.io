@@ -12,38 +12,24 @@ I hold a master's degree in Information Systems Technologies at Wilmington Unive
 
 To enhance my skills and practical experience in the field of Data Science, I actively work on real-time projects from various websites such as Kaggle, DataCamp, HiCounselor, Udemy and many more. My work on these projects can be explored on my GitHub profile.
 
-
 ## Academic Qualifications
 
-
-#### Wilmington University
-
-Master of Science in Information Systems Technologies
-
-August 2022 - December 2023
-
+#### Wilmington University\
+Master of Science in Information Systems Technologies\
+August 2022 - December 2023\
 Grade: 3.61
 
-
-#### MVSR Engineering College, Osmania University
-
-Bachelor of Engineering in Electronics and Communication Engineering
-
-August 2017 - December 2021
-
+#### MVSR Engineering College, Osmania University\
+Bachelor of Engineering in Electronics and Communication Engineering\
+August 2017 - December 2021\
 Grade: 3.0
-
-
 
 ## Work Experience
 
-
-#### Data Scientist
-
-
-DUTA - Part-Time
-
+#### Data Scientist\
+DUTA - Part-Time\
 July 2024 - Present
 
+DUTA is the upcoming Instagram-like news aggregation app targeted towards people in two Telugu states - Telangana and Andhra Pradesh.  It displays news updates and their summaries on the feed, and allows the user to react to these articles - like, share, subscribe, comment etc in three languages - English, Telugu, Hindi. DUTA aims at display of news articles from any source in the language of user's choice (English, Telugu, Hindi), display of only essential insights of an article on the feed, to prevent information overload in users, enabling users to react and comment to the articles, thereby dealing with any political or ideological bias by news sources, availability of a chatbot that generates answers related to news articles according to the prompt given by the user in any language.
 
-DUTA is the upcoming Instagram-like news aggregation app which displays news updates and their summaries on the feed, and allows the user to react to these articles - like, share, subscribe, comment etc. DUTA aims at display of news articles from any source in the language of user's choice, display of only essential insights of an article on the feed, to prevent information overload in users, enabling users to react and comment to the articles, thereby dealing with any political or ideological bias by news sources, availability of a chatbot that generates answers related to news articles according to the prompt given by the user in any language.
+We extracted and cleaned around thirty thousand articles from various news sources available in all the three languages using various Python libraries such as BeautifulSoup, Selenium, Google Chrome WebDriver, and individual news source APIs (like Inshorts API). 
