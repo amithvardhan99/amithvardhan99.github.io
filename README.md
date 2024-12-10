@@ -16,6 +16,12 @@ To enhance my skills and practical experience in the field of Data Science, I ac
 
 ## Academic Qualifications
 
-### Wilmington University
+#### Wilmington University
+Master of Science in Information Systems Technologies
+August 2022 - December 2023
+Grade: 3.61
 
-### MVSR Engineering College, Osmania University
+#### MVSR Engineering College, Osmania University
+Bachelor of Engineering in Electronics and Communication Engineering
+August 2017 - December 2021
+Grade: 3.0
