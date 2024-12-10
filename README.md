@@ -27,8 +27,8 @@ Grade: 3.0
 ## Work Experience
 
 #### Data Scientist
-#### DUTA - Part-Time
-#### July 2024 - Present
+DUTA - Part-Time\
+July 2024 - Present
 
 DUTA is the upcoming Instagram-like news aggregation app targeted towards people in two Telugu states - Telangana and Andhra Pradesh.  It displays news updates and their summaries on the feed, and allows the user to react to these articles - like, share, subscribe, comment etc in three languages - English, Telugu, Hindi. DUTA aims at display of news articles from any source in the language of user's choice (English, Telugu, Hindi), display of only essential insights of an article on the feed, to prevent information overload in users, enabling users to react and comment to the articles, thereby dealing with any political or ideological bias by news sources, availability of a chatbot that generates answers related to news articles according to the prompt given by the user in any language.
 
