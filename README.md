@@ -27,9 +27,10 @@ Grade: 3.0
 ## Work Experience
 
 #### Data Scientist
-DUTA - Part-Time\
-July 2024 - Present
+#### DUTA - Part-Time
+#### July 2024 - Present
 
 DUTA is the upcoming Instagram-like news aggregation app targeted towards people in two Telugu states - Telangana and Andhra Pradesh.  It displays news updates and their summaries on the feed, and allows the user to react to these articles - like, share, subscribe, comment etc in three languages - English, Telugu, Hindi. DUTA aims at display of news articles from any source in the language of user's choice (English, Telugu, Hindi), display of only essential insights of an article on the feed, to prevent information overload in users, enabling users to react and comment to the articles, thereby dealing with any political or ideological bias by news sources, availability of a chatbot that generates answers related to news articles according to the prompt given by the user in any language.
 
 We extracted and cleaned around ten thousand articles, their titles, and their summaries from various news sources available in all three languages using Python libraries such as BeautifulSoup, Selenium, Google Chrome WebDriver, and individual news source APIs (such as Inshorts API). Their respective summaries were not found for certain summaries; hence, we generated summaries using the Groq API. We then translated these articles into two languages other than their respective languages in which they were originally written. For example, if an article was originally in English, it was translated into Telugu and Hindi. If the original language is Telugu, the article is translated into English, Hindi, and so on. We then went ahead and fine-tuned the GPT 3.5 and Llama 3 models with these articles, their titles, and their summaries. This is no other than making our own version of the GPT 3.5, specifically for dealing with articles. This is the version of GPT 3.5, which we incorporated into our chatbot. We also went ahead and fine-tuned GPT 3.5 with articles and their summaries in each language, to design models that can summarize articles in their respective languages. For example, we designed the English summarization GPT 3.5, by fine-tuning it with English articles and their summaries only, and we designed Telugu summarization GPT 3.5, by fine-tuning it with Telugu articles and their summaries only.
+
