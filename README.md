@@ -24,3 +24,10 @@ Bachelor of Engineering in Electronics and Communication Engineering\
 August 2017 - December 2021\
 Grade: 3.0
 
+## Work Experience
+
+#### Data Scientist
+DUTA - Part-Time
+July 2024 - Present
+Remote
+
