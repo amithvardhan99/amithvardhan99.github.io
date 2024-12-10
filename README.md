@@ -12,22 +12,37 @@ I hold a master's degree in Information Systems Technologies at Wilmington Unive
 
 To enhance my skills and practical experience in the field of Data Science, I actively work on real-time projects from various websites such as Kaggle, DataCamp, HiCounselor, Udemy and many more. My work on these projects can be explored on my GitHub profile.
 
+
 ## Academic Qualifications
 
+
 #### Wilmington University
-Master of Science in Information Systems Technologies\
-August 2022 - December 2023\
+
+Master of Science in Information Systems Technologies
+
+August 2022 - December 2023
+
 Grade: 3.61
 
+
 #### MVSR Engineering College, Osmania University
-Bachelor of Engineering in Electronics and Communication Engineering\
-August 2017 - December 2021\
+
+Bachelor of Engineering in Electronics and Communication Engineering
+
+August 2017 - December 2021
+
 Grade: 3.0
+
+
 
 ## Work Experience
 
+
 #### Data Scientist
+
+
 DUTA - Part-Time
+
 July 2024 - Present
 
 
